@@ -1,16 +1,33 @@
-# React + Vite
+# Bhavana Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A modern AI Engineer portfolio showcasing my work in Machine Learning, Large Language Models, and Full-Stack Development.
 
-Currently, two official plugins are available:
+## Featured Projects
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+###  I'm On It — AI Meeting Execution Platform
+An AI-powered platform that transforms meetings into structured workflows using LiveKit, Speech-to-Text, Gemini AI, and FastAPI.
 
-## React Compiler
+### AI Health Report Analyzer
+LLM-powered medical report analyzer using Gemini API and FastAPI.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Tomato Disease Detector
+Machine Learning application for tomato leaf disease detection with a React frontend.
 
-## Expanding the Oxlint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## Tech Stack
+
+- React
+- Vite
+- Framer Motion
+- FastAPI
+- Python
+- MongoDB
+- Gemini API
+- LiveKit
+
+---
+
+## Live Website
+
+Coming Soon
