@@ -90,8 +90,8 @@ const Hero = () => {
         >
           <div className="profile-container glow-effect">
             <div className="profile-card glass-card" style={{ padding: '8px', maxWidth: '350px' }}>
-              <div className="profile-image-placeholder" style={{ borderRadius: '12px', overflow: 'hidden', height: '100%' }}>
-                <img src="/profile.jpeg" alt="Bhavana S" style={{ width: '100%', height: '100%', objectFit: 'cover', display: 'block' }} />
+              <div className="profile-image-placeholder" style={{ borderRadius: '12px', overflow: 'hidden' }}>
+                <img src="/profile.jpeg" alt="Bhavana S" style={{ width: '100%', height: 'auto', display: 'block' }} />
               </div>
             </div>
           </div>
