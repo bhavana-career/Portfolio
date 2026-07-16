@@ -61,8 +61,8 @@ const Hero = () => {
             <a href="#projects" className="btn btn-primary">
               View Projects <ArrowRight size={16} />
             </a>
-            <a href="/resume.pdf" className="btn btn-secondary">
-              <FileText size={16} /> Download Resume
+            <a href="https://drive.google.com/file/d/10z72Ujc8o7-BC8CLgn-9kVCPRo2f3LsW/view?usp=sharing" className="btn btn-secondary" target="_blank" rel="noreferrer">
+              <FileText size={16} /> Resume
             </a>
             
             {/* Social Icons Inline */}

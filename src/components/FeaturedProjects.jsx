@@ -55,7 +55,7 @@ const projects = [
       { name: "MongoDB", icon: <SiMongodb /> },
       { name: "Gemini AI", icon: <FaRobot /> }
     ],
-    demoUrl: "https://github.com/bhavana-career/Beacon",
+    demoUrl: "https://beaconswe.lovable.app/",
     githubUrl: "https://github.com/bhavana-career/Beacon"
   }
 ];

@@ -39,9 +39,9 @@ const Contact = () => {
               <ArrowUpRight size={16} className="contact-link-arrow" />
             </a>
             
-            <a href="/resume.pdf" className="contact-link-item highlight">
+            <a href="https://drive.google.com/file/d/10z72Ujc8o7-BC8CLgn-9kVCPRo2f3LsW/view?usp=sharing" className="contact-link-item highlight" target="_blank" rel="noreferrer">
               <span className="contact-link-icon"><FileText size={20} /></span>
-              <span className="contact-link-text">Download Resume</span>
+              <span className="contact-link-text">Resume</span>
               <ArrowUpRight size={16} className="contact-link-arrow" />
             </a>
           </div>
