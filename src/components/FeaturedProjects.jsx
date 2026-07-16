@@ -44,6 +44,19 @@ const projects = [
     ],
     demoUrl: "https://tomaai.lovable.app/",
     githubUrl: "https://github.com/bhavana-career/Tomato-Disease-Detector"
+  },
+  {
+    id: "beacon",
+    title: "Beacon – Executive AI Assistant",
+    description: "An executive AI assistant that transforms raw Excel/CSV business data into actionable executive insights and interactive dashboards. Built with React, FastAPI, MongoDB, and Gemini AI.",
+    tech: [
+      { name: "React", icon: <FaReact /> },
+      { name: "FastAPI", icon: <SiFastapi /> },
+      { name: "MongoDB", icon: <SiMongodb /> },
+      { name: "Gemini AI", icon: <FaRobot /> }
+    ],
+    demoUrl: "https://github.com/bhavana-career/Beacon",
+    githubUrl: "https://github.com/bhavana-career/Beacon"
   }
 ];
 
